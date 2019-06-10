@@ -202,4 +202,7 @@
     <string name="smartbar_double_tap_sleep_title">ダブルタップしてスリープ</string>
     <string name="smartbar_double_tap_sleep_summary">ナビゲーションバーの空きエリアをダブルタップしてスリープ</string>
     <string name="reset">リセット</string>
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel アニメーション</string>
+    <string name="pixel_navbar_anim_summary">標準のナビゲーションバーのホームボタンアニメーションを切り替える</string>
 </resources>

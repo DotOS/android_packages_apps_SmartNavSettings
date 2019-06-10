@@ -202,4 +202,7 @@
     <string name="smartbar_double_tap_sleep_title">Dwukrotnie dotknij, aby uśpić</string>
     <string name="smartbar_double_tap_sleep_summary">Dwukrotnie dotknij na pustych obszarach paska nawigacyjnego, aby uśpić telefon</string>
     <string name="reset">Resetuj</string>
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel animation</string>
+    <string name="pixel_navbar_anim_summary">Toggle home button animation on stock navbar</string>
 </resources>

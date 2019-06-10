@@ -202,4 +202,7 @@
     <string name="smartbar_double_tap_sleep_title">Выключать экран при двойном нажатии</string>
     <string name="smartbar_double_tap_sleep_summary">Двойное нажатие на пустую область панели навигации для сна</string>
     <string name="reset">Сброс</string>
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Анимация Pixel</string>
+    <string name="pixel_navbar_anim_summary">Включить анимацию кнопки \"Домой\" на панели навигации по умолчанию</string>
 </resources>
